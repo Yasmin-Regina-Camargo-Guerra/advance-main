@@ -5,6 +5,7 @@
                             <div class="objetivos-descricao">
                                 <p>Agilidade</p>
                                 <p>Conforto</p>
-                                <p>Segurança</p>
+                                <p>SeguranÃ§a</p>
+                                <p>Praticidade</p>
                             </div>
                     </div>
